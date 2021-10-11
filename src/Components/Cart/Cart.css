@@ -1,0 +1,13 @@
+.cart-section{
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: #236161;
+    box-shadow:  1px 1px 5px #cccbcb;
+    margin: 10px;
+    color: white;
+    
+    
+}
+.cart-section h4{
+    /* text-align: center; */
+}

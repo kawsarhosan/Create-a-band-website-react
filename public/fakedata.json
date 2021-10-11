@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Samual Ilson",
+        "img": "https://i.ibb.co/bW0Dwkh/willis-stout-qh-L4-EYy-AOHM-unsplash.jpg",
+        "age": 26,
+        "band": "Okala",
+        "budget": 30000,
+        "position": "vocalist",
+        "country": "London"
+    },
+    {
+        "name": "Behruouz Sasani",
+        "img": "https://i.ibb.co/B3Rdb0R/behrouz-sasani-Mkmu-B-f-ZIo-unsplash-1.jpg",
+        "age": 28,
+        "band": "Dron",
+        "budget": 20000,
+        "position": "vocalist",
+        "country": "New York"
+    },
+    {
+        "name": "Bosko Nyalon",
+        "img": "https://i.ibb.co/zNynwgJ/bosco-shots-Zo-Ed-O0-G0xm-I-unsplash.jpg",
+        "age": 27,
+        "band": "Okala",
+        "budget": 33000,
+        "position": "Guitarist",
+        "country": "France"
+    },
+    {
+        "name": "Carlos De Santiago",
+        "img": "https://i.ibb.co/b7kbdF6/carlos-de-santiago-o-D00-ZBAZSvg-unsplash.jpg",
+        "age": 33,
+        "band": "samin",
+        "budget": 23000,
+        "position": "Dramarist",
+        "country": "Japan"
+    },
+    {
+        "name": "Curtis Potvin",
+        "img": "https://i.ibb.co/8bq0MLQ/curtis-potvin-1-Jkz9zw-Vlc-unsplash.jpg",
+        "age": 23,
+        "band": "Okala",
+        "budget": 31000,
+        "position": "vocalist",
+        "country": "Itali"
+    },
+    {
+        "name": "Jason Jarrach",
+        "img": "https://i.ibb.co/QdrxcfX/jason-jarrach-We5-S4-UQ4-Uo-I-unsplash.jpg",
+        "age": 26,
+        "band": "Okala",
+        "budget": 29000,
+        "position": "Dramarist",
+        "country": "London"
+    },
+    {
+        "name": "Jesse Ramirez",
+        "img": "https://i.ibb.co/ftFj9zY/jesse-ramirez-R1-NBUvx-Idu8-unsplash.jpg",
+        "age": 27,
+        "band": "Bigrow",
+        "budget": 38000,
+        "position": "vocalist",
+        "country": "Singpore"
+    },
+    {
+        "name": "Neonbrand",
+        "img": "https://i.ibb.co/YNcdDp7/neonbrand-MENIBa0e-Ze-A-unsplash.jpg",
+        "age": 26,
+        "band": "Simba",
+        "budget": 36500,
+        "position": "Guitarist",
+        "country": "Brazil"
+    },
+    {
+        "name": "Nihal Demirci",
+        "img": "https://i.ibb.co/vQKmCg9/nihal-demirci-GNe-Ppmf0-LD0-unsplash-1.jpg",
+        "age": 28,
+        "band": "Okala",
+        "budget": 23000,
+        "position": "vocalist",
+        "country": "London"
+    },
+    {
+        "name": "Ruel Del",
+        "img": "https://i.ibb.co/H4CgXPx/ruel-del-jamorol-1-Xr5v3k-IYIQ-unsplash.jpg",
+        "age": 26,
+        "band": "Sinum",
+        "budget": 25000,
+        "position": "vocalist",
+        "country": "Ghana"
+    },
+    {
+        "name": "Vidar Nordli",
+        "img": "https://i.ibb.co/Yb8WZvv/vidar-nordli-mathisen-Me5rtd-Nm-Ir-U-unsplash.jpg",
+        "age": 24,
+        "band": "Okala",
+        "budget": 27000,
+        "position": "Dramarist",
+        "country": "Netherland"
+    },
+    {
+        "name": "Willis Stout",
+        "img": "https://i.ibb.co/bW0Dwkh/willis-stout-qh-L4-EYy-AOHM-unsplash.jpg",
+        "age": 26,
+        "band": "Okala",
+        "budget": 30000,
+        "position": "vocalist",
+        "country": "London"
+    }
+]
